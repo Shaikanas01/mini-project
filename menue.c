@@ -12,15 +12,13 @@ switch(op)
 {
     case '1':
     printf("you have choosen stater\n");
-    printf("1.chicken 65\n2.paneer fry\n3.dragon chicken");
+    printf("1.chicken 65\n2.paneer fry\n3.dragon chicken \n 4.dummmm");
     break;
 
     case '2':
     printf("you have choosen main course\n");
     printf("1.dum biryani\n2.tanduri roti\n3.veg biryani");
     break;
-
-
 
 
 }
